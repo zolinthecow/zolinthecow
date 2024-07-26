@@ -14,8 +14,8 @@ here's a few places i've worked at:
 ## more abt me
 here's some things that you should know about me:
 
-[my anime list](https://myanimelist.net/profile/zolinthecow)
+[my anime list](https://myanimelist.net/profile/zolinthecow)\
 [bodybuilding](https://contests.npcnewsonline.com/contests/2023/npc_ultimate_warriors/hg90/colin_zhao)
 
-if you wanna talk, email me at colinzhao777 [at] gmail.com.
+if you wanna talk, email me at colinzhao777 [at] gmail.com.\
 or preferrably dm me on like [twitter](https://x.com/zolinthecow) or [instagram](https://www.instagram.com/_colinzhao_/) or smth.
