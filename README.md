@@ -1,12 +1,11 @@
 # hey!
 
-i'm colin. currently doing engineering and research at [etched](etched.com) (we're hiring!). i was a first year cs at ucla but now i'm on leave.
-
-i'm interested in design-research-engineering. basically, i enjoy bringing the results research into real products.
+i'm colin. currently enjoying life at ucla. i like design engineering and research (but i suck at the design part right now 😢)
 
 ## work exp
 here's a few places i've worked at before:
 
+- engineering and research at [etched](etched.com)
 - engineering and research at [cursor](cursor.com).
 - cofounder and cto at toppings.
 
